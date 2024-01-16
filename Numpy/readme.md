@@ -1,2 +1,3 @@
-1. Link to [Rougier 100 Numpy Exercises Repo](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) 
-2. Link to [Kyubyong Numpy Exercises Repo](https://github.com/Kyubyong/numpy_exercises)
+## Link to Exercise Repositories
+1. [Rougier's 100 Numpy Exercises Repository](https://github.com/rougier/numpy-100) 
+2. [Kyubyong's Numpy Exercises Repository](https://github.com/Kyubyong/numpy_exercises)
