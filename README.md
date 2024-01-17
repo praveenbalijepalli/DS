@@ -1,8 +1,10 @@
-# DS
-## Numpy
-1. [https://github.com/praveenbalijepalli/DS/blob/main/Numpy/100_Numpy_exercises.ipynb](https://github.com/praveenbalijepalli/DS/blob/main/Numpy/100_Numpy_exercises.ipynb)
-2. [https://github.com/praveenbalijepalli/DS/tree/main/Numpy/Kyubyong_numpy_exercises](https://github.com/praveenbalijepalli/DS/tree/main/Numpy/Kyubyong_numpy_exercises)
-
+# DS Exercises
+## Numpy exercises
+1. [https://github.com/praveenbalijepalli/DS/blob/main/Numpy/Rougier](https://github.com/praveenbalijepalli/DS/blob/main/Numpy/Rougier)
+2. [https://github.com/praveenbalijepalli/DS/tree/main/Numpy/Kyubyong](https://github.com/praveenbalijepalli/DS/tree/main/Numpy/Kyubyong)
+3. 
+   
 ## Scipy
 
-## Pandas
+## Pandas exercises from 
+1.[
