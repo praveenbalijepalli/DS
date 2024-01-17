@@ -5,5 +5,5 @@
    
 ## Scipy
 
-## Pandas exercises from 
+## Pandas exercises
 1. [https://github.com/praveenbalijepalli/DS/tree/main/Pandas/Guilherme Samora](https://github.com/praveenbalijepalli/DS/tree/main/Pandas/Guilherme%20Samora)
