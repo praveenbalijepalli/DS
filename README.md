@@ -7,4 +7,4 @@
 ## Scipy
 
 ## Pandas exercises from 
-1.[https://github.com/praveenbalijepalli/DS/tree/main/Pandas/Guilherme%20Samora][https://github.com/praveenbalijepalli/DS/tree/main/Pandas/Guilherme%20Samora]
+1.[https://github.com/praveenbalijepalli/DS/tree/main/Pandas/Guilherme Samora](https://github.com/praveenbalijepalli/DS/tree/main/Pandas/Guilherme%20Samora)
