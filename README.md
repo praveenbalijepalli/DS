@@ -1,6 +1,6 @@
 # DS Exercises
 ## Numpy exercises
-1. [https://github.com/praveenbalijepalli/DS/blob/main/Numpy/Rougier](https://github.com/praveenbalijepalli/DS/blob/main/Numpy/Rougier)
+1. [https://github.com/praveenbalijepalli/DS/tree/main/Numpy/Rougier](https://github.com/praveenbalijepalli/DS/tree/main/Numpy/Rougier)
 2. [https://github.com/praveenbalijepalli/DS/tree/main/Numpy/Kyubyong](https://github.com/praveenbalijepalli/DS/tree/main/Numpy/Kyubyong)
 3. 
    
